@@ -1,5 +1,5 @@
 # Pixel to Coordinates Converter
-4
+
 
 ## Description
 This Python script converts pixel locations in an image to coordinates in various coordinate systems. It supports multiple image formats, including GIFs, and provides visualization of the converted coordinates.
